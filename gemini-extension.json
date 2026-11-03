@@ -1,0 +1,10 @@
+{
+  "name": "odin",
+  "version": "0.3.3",
+  "description": "Fix Odin security findings from your agent: read the remediation, link the pull request and follow the retest.",
+  "mcpServers": {
+    "odin": {
+      "httpUrl": "https://odin.borghq.io/api/mcp"
+    }
+  }
+}

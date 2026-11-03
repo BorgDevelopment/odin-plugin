@@ -1,0 +1,17 @@
+{
+  "name": "borg",
+  "owner": {
+    "name": "Borg Research",
+    "email": "mail@borghq.io"
+  },
+  "metadata": {
+    "description": "Borg's plugins for AI agents"
+  },
+  "plugins": [
+    {
+      "name": "odin",
+      "source": "./",
+      "description": "Fix Odin security findings from your agent: read the remediation, link the pull request and follow the retest."
+    }
+  ]
+}

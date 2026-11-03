@@ -1,0 +1,14 @@
+{
+  "name": "odin",
+  "displayName": "Odin",
+  "version": "0.3.3",
+  "description": "Fix Odin security findings from your agent: read the remediation, link the pull request and follow the retest.",
+  "author": {
+    "name": "Borg Research",
+    "email": "mail@borghq.io"
+  },
+  "license": "MIT",
+  "keywords": ["security", "vulnerabilities", "pentest", "remediation", "mcp"],
+  "logo": "assets/logo.svg",
+  "mcpServers": ".cursor-plugin/mcp.json"
+}

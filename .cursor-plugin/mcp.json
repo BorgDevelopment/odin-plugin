@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "odin": {
+      "url": "https://odin.borghq.io/api/mcp"
+    }
+  }
+}

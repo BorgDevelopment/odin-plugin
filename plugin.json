@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "odin",
+  "version": "0.3.3",
+  "description": "Fix Odin security findings from your agent: read the remediation, link the pull request and follow the retest.",
+  "author": {
+    "name": "Borg Research",
+    "email": "mail@borghq.io",
+    "url": "https://borghq.io"
+  },
+  "homepage": "https://docs.borghq.io/platform/odin-mcp",
+  "repository": "https://github.com/BorgDevelopment/odin-plugin",
+  "license": "MIT",
+  "keywords": ["security", "vulnerabilities", "pentest", "remediation", "mcp"]
+}
