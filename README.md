@@ -25,7 +25,8 @@ In VS Code, run **Chat: Install Plugin from Source** and enter `https://github.c
 In Copilot CLI:
 
 ```sh
-copilot plugin install BorgDevelopment/odin-plugin
+copilot plugin marketplace add BorgDevelopment/odin-plugin
+copilot plugin install odin@borg
 ```
 
 ### Cursor
